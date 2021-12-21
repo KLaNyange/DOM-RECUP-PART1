@@ -1,6 +1,6 @@
 //?Exercice 1
 let myBody = document.getElementsByTagName("body")[0]
-let myBody = document.body
+// let myBody = document.body
 console.log(myBody);
 
 //?Exercice 2
